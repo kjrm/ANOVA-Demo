@@ -1,0 +1,3 @@
+BEFORE RUNNING, DO THE FOLLOWING
+1. Unzip the `nesarc_pds` compressed folder
+2. Move the `nesarc_pds.csv` file to the same location as the `ANOVA Demonstration.ipynb` file
